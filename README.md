@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 i'm Maximo and...
+I'm Currently a student 📖 at Information Systems Engineering 💻
+I'm from Argentina and i live in Cordoba city 🇦🇷 🇦🇷
+
 
 <!--
 **maximofloress/maximofloress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
